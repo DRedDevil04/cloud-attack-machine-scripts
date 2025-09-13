@@ -1,0 +1,48 @@
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+
+# Log files
+*.log
+logs/
+
+# Cache and build artifacts
+*.cache
+.cache/
+build/
+dist/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Credentials and sensitive data
+*.key
+*.pem
+*.p12
+config.local
+.env
+.env.local
+
+# Test and development files
+test/
+testing/
+dev/
+development/
+
+# Backup files
+*.bak
+*.backup
+backup/
+
+# Documentation build outputs
+docs/_build/
+site/
